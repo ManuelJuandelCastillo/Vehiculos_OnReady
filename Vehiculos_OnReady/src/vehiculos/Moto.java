@@ -1,6 +1,6 @@
 package vehiculos;
 
-public class Moto extends Vehiculo{
+public class Moto extends Vehiculo implements DatosVehiculo{
 	
 	private int cilindrada;
 

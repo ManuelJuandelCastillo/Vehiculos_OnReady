@@ -1,6 +1,6 @@
 package vehiculos;
 
-public class Auto extends Vehiculo{
+public class Auto extends Vehiculo implements DatosVehiculo{
 
 	private int puertas;
 
